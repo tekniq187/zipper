@@ -7,28 +7,28 @@
 ### Prerequisites
 
 # You will need to have Python 3 installed on your computer. You can check your Python version by running the following command:
-# ```
+#  
 # python --version
-# ```
+#  
 
 ### Installing
 
 # To use the Zipper Script, clone the repository from GitHub and navigate to the project directory. Then, install the required packages by running the following command:
-# ```
+#  
 # pip install -r requirements.txt
-# ```
+#  
 
 ### Running the Script
 
 # You can run the script by using the following command:
-# ```
+#  
 # python zipper.py [path to folder or file] [name of output Zip file]
-# ```
+#  
 
 # For example, to zip a folder called "myfolder" and create a Zip file called "myzipfile.zip", use the following command:
-# ```
+#  
 # python zipper.py myfolder myzipfile.zip
-# ```
+#  
 
 # The script will compress the files and folders inside "myfolder" and create a new Zip file called "myzipfile.zip" in the same directory as the script.
 
